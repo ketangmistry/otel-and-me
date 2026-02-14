@@ -13,7 +13,3 @@ Explicitly add/reference agents in your program command line.
 ### Zero-touch
 
 The adding/referring of agents is handled by an operator which could be an opt-out but most likely an opt-in through an (Kubernetes) annotation.
-
-## References
-
-- **Observability for Platform Engineers** - Platform Engineering Universify
